@@ -19,10 +19,10 @@ The main objective of this project is to develop an automated parking monitoring
 4. Parking availability can be displayed or monitored.
 
 ## Key Features
-- Automatic parking slot detection
-- Reduces manual monitoring
-- Improves parking management efficiency
-- Cost-effective solution
+- Automatic parking slot detection.
+- Reduces manual monitoring.
+- Improves parking management efficiency.
+- Cost-effective solution.
 
 ## Outcome
 The project demonstrates how sensor-based automation can simplify parking management and reduce congestion.
